@@ -1,0 +1,4 @@
+repository "Incremental Epic Hero 2@hidenori_unity@cloud"
+  path "/"
+    br "/main"
+    co "/main"
